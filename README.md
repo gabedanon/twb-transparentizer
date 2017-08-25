@@ -6,7 +6,7 @@ This is a node script that generates the transparent PNGs found on the [Trends W
 
 ## How?
 
-This script relies heavily on [Jimp](https://github.com/oliver-moran/jimp) a terrific JavaScript-based image manipulation tool.
+This script relies heavily on [Jimp](https://github.com/oliver-moran/jimp), a terrific JavaScript-based image manipulation tool.
 
 You want to use this? OK. Here's how.
 
